@@ -1,4 +1,4 @@
-# InRequiem Lab  
+# InRequiem
 *~ where ideas are buried to bloom again ~*
 
 ---
