@@ -1,11 +1,11 @@
-# InRequiem
-*~ where ideas are buried to bloom again ~*
+# VΛCLV
+**valaclava, where ideas are buried to bloom again**
 
 ---
 
 ## ❖ About
 
-InRequiem Lab is a quiet collective focused on crafting tools, insights, and systems that live between thought and execution.
+VΛCLV Lab is a quiet collective focused on crafting tools, insights, and systems that live between thought and execution.
 
 We build and maintain frameworks for understanding complexity — in data, behavior, and machines.  
 
@@ -49,11 +49,11 @@ No theatrics. Just meaningful work.
 ## ❖ Contact
 
 - 🜂 Website: _coming soon_  
-- 🜁 Twitter: [@InRequiemX](https://twitter.com/InRequiemx)  
+- 🜁 Twitter: [@valaclavahq](https://twitter.com/valaclavahq)  
 
 ---
 
 > *Simple tools, real signals,  
 > thoughtful silence, lasting effect.*  
 
-**— InRequiem Lab**
+**— VΛCLV Lab**
