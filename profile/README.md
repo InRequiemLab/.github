@@ -1,5 +1,5 @@
 # VΛCLV
-**valaclava, where ideas are buried to bloom again**
+**where ideas are buried to bloom again**
 
 ---
 
