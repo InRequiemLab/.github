@@ -1,59 +1,13 @@
-# VΛCLV
-**where ideas are buried to bloom again**
+# ValaClava
+>**where ideas are buried to bloom again**
 
----
+At **VΛCLV**, we craft tools for machines quicker than a blink of an eye.
 
-## ❖ About
+We build systems that observe before acting, follow movement, commerce, and cognition—not just to forecast, but to truly grasp.
 
-VΛCLV Lab is a quiet collective focused on crafting tools, insights, and systems that live between thought and execution.
+Telemetry. Finance. Automata.
 
-We build and maintain frameworks for understanding complexity — in data, behavior, and machines.  
+Collaborators:
+Researchers, engineers, traders and race drivers
 
----
-
-## ❖ Focus
-
-We work across disciplines, guided by curiosity and precision.
-
-- Quantitative Research & Modeling  
-- Telemetry & Signal Processing  
-- AI Systems & Applied LLMs  
-- Autonomous Agents & Decision Layers  
-- Experimental Software & Interfaces  
-- Human-in-the-loop Simulation & Design
-
----
-
-## ❖ Team
-
-- **Collaborators** — Researchers, engineers, and dreamers who don't really sleep
-
-We operate loosely, often asynchronously.  
-We don't micromanage innovation.
-
----
-
-## ❖ Contribution
-
-We accept contributions from those who respect the process.
-
-- Fork and build quietly.  
-- Document clearly.  
-- Submit with intent.  
-- We’ll review what feels aligned.
-
-No theatrics. Just meaningful work.
-
----
-
-## ❖ Contact
-
-- 🜂 Website: [valaclava](https://valaclava.netlify.app/)
-- 🜁 Twitter: [@valaclavahq](https://twitter.com/valaclavahq)  
-
----
-
-> *Simple tools, real signals,  
-> thoughtful silence, lasting effect.*  
-
-**— VΛCLV Lab**
+contact us via [X (formerly Twitter)](https://x.com/valaclavahq) DMs.
